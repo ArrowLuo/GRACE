@@ -1,7 +1,5 @@
 # GRACE
 
-*CODE IS ON THE WAY, PLEASE STAY TUNED.*
-
 The implementation of paper titled 
 
 [GRACE: Gradient Harmonized and Cascaded Labeling for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2009.10557). Huaishao Luo, Lei Ji, Tianrui Li, Nan Duan, Daxin Jiang. Findings of EMNLP, 2020.
@@ -10,6 +8,11 @@ This paper proposes a GRadient hArmonized and CascadEd labeling model (GRACE) to
 
 The main structure of our GRACE.
 ![Framework](accessory/Framework.png)
+
+## Requirements
+
+* python 3.6
+* pytorch==1.3.1
 
 ## Pretrained Weight
 The pretrained weight can be found in the folder of [**pretrained_weight**](./pretrained_weight). 
@@ -26,3 +29,7 @@ If this work is helpful, please cite as:
     year = {2020}
 }
 ```
+
+## Acknowledgements
+
+Our code is based on the implementation of [transformers](https://github.com/huggingface/transformers) and [SpanABSA](https://github.com/huminghao16/SpanABSA)
