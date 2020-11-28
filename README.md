@@ -1,6 +1,6 @@
 # GRACE
 
-The implementation of paper titled 
+The implementation of Findings of EMNLP 2020 paper titled 
 
 [GRACE: Gradient Harmonized and Cascaded Labeling for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2009.10557). Huaishao Luo, Lei Ji, Tianrui Li, Nan Duan, Daxin Jiang. Findings of EMNLP, 2020.
 
